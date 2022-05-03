@@ -1,11 +1,11 @@
-# Work Log for {{ Your Name }}
+# Work Log for Saisree 
 
 | Day   | Hours | Description                              |
 |-------|-------|------------------------------------------|
-| May01 | 2     | Set up Trello Boards, completed calendar |
-| May0X | X     |                                          |
-| May0X | X     |                                          |
-| May0X | X     |                                          |
+| May03 | 4+    | - Setup github, sharepoint for efficient file sharing. Attended client meeting. Set up Trello lists for task management. Discussed team contract , code of conduct and team charter canvas|
+| May04 | X     |                                          |
+| May05 | X     |                                          |
+| May06 | X     |                                          |
 | May0X | X     |                                          |
 | May0X | X     |                                          |
 | May0X | X     |                                          |
