@@ -11,7 +11,7 @@ If you are not able to agree on these points, it is a sign that your group may b
 |----------|----------------------------------------|
 | Justine Filion | [@jufil19](https://github.com/jufil19) |
 | Saisree GR | [@Saisree-123](https://github.com/Saisree-123) |
-| Neethu | [@username](https://github.com/firasm) |
+| Neethu | [@Neethu](https://github.com/Neetz78) |
 | Sara Hall | [@SaraAnnHall](https://github.com/SaraAnnHall) |
 
 ## Participation
