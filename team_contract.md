@@ -9,10 +9,10 @@ If you are not able to agree on these points, it is a sign that your group may b
 
 | Name     | GitHub Handle                          |
 |----------|----------------------------------------|
-| Person 1 | [@username](https://github.com/firasm) |
-| Person 2 | [@username](https://github.com/firasm) |
-| Person 3 | [@username](https://github.com/firasm) |
-| Person 4 | [@username](https://github.com/firasm) |
+| Justine Filion | [@jufil19](https://github.com/jufil19) |
+| Saisree GR | [@Saisree-123](https://github.com/Saisree-123) |
+| Neethu | [@username](https://github.com/firasm) |
+| Sara Hall | [@SaraAnnHall](https://github.com/SaraAnnHall) |
 
 ## Participation
 
