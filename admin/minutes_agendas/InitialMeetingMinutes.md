@@ -1,5 +1,5 @@
 # Initial Client Meeting Minutes
-## May 2, 2022
+## May 3, 2022
 
 - Started with introductions and icebreaker activity. 
 - Learned about the system we are developing machine learning models for anomaly detection. It's a blood analysis system that measure the concentrations of different analytes. 
@@ -14,3 +14,4 @@
 - For the first week we are meeting with Aditya on a daily basis to dicuss our progress on the proposal. 
 -  Throught the Capstone we will meet with Aditya, Mike, and Levannia on Mondays and Fridays to discuss progress. 
 -  We also have additional committee meetings every second week starting from May 9. The first one we will present our proposal, the last we will present our final product. The intermediate ones we will present out progress and we are expected to send an agenda of what we wish to discuss prior to the meeting. 
+-  We were also given a team charter to fill out. 
