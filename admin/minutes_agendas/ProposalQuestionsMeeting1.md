@@ -1,5 +1,5 @@
 # Chat with Aditya Minutes
-## May 3, 2022
+## May 4, 2022
 
 In this meeting we had a list of questions to clarify what they want out of this project so that we can write our proposal. 
 
