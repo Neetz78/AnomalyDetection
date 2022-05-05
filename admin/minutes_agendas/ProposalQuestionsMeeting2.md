@@ -1,4 +1,5 @@
 Minutes, meeting 2022-05-05 (40 minutes)
+
 **Unsupervised** :
 * Do we use only the unsuccessful readings and try to identify the pin contact errors?
 	- No, combine the entire dataset, including the successful readings. The wave forms for the successful readings should be easily distinguishable from unsuccessful readings.
