@@ -6,7 +6,7 @@ This project aims to compare various machine learning pipelines that perform clu
 
 - Justine Filion : one sentence about you!
 - Saisree GR : one sentence about you!
-- Neethu : one sentence about you!
+- Neethu Gopalakrishna : one sentence about you!
 - Sara Hall : one sentence about you!
 
 ## Describe your topic/interest in about 150-200 words
