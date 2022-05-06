@@ -38,9 +38,6 @@ The dataset we are working with consists of several CSV files which describe sen
 
 Each reading has two records associated with it: a raw signal time series, and a series of predictors which have been calculated from the raw data. These records can be linked together using their unique test identifiers. Within the predictors derived from the raw waveforms are metrics like slope, mean signal, and noise from several different windows including the calibration and sample periods. The timeseries for different tests are different lengths so that is another thing we will need to account for in our analyses. 
 
-Both the predictor and time-series files will need some amount of preprocessing. With the time series data we will need to perform some sort of noise filtering. We will then need to plot and look at the waveforms to split them into windows that make sense for clustering unsuccessful readings into different groups. We may also want to look into ways to normalize the signals. For the predictors, we will need to make sure we are not missing too many missing values or outliers prior to proceeding with our analyses. Finally, it seems there might be some duplicated test records for the predictors as there are more records stored as summary statistics than as raw waveforms. As a result, we will need to filter out the tests that are present in both forms and get rid of any duplicates so that we are able to use them together should we choose to do so. 
-
-
 ## References 
 
 [1] https://www.nhlbi.nih.gov/health/blood-tests
