@@ -7,6 +7,6 @@ Place your weekly status updates in this folder before your weekly meeting.
 
 | Week | Document Type   | Participants|
 |------|--------------|---------------|
-| May2-7| [Week 1](Week1.md) | Sara, Justine, Neethu, Saisree|
+| May 2-7| [Week 1](Week1.md) | Sara, Justine, Neethu, Saisree|
 
 
