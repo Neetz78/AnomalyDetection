@@ -1,4 +1,4 @@
-Minutes, meeting 2022-05-06 (30 minutes)
+Minutes, meeting 2022-05-06 (20 minutes)
 
 **Feedback on proposal:**
 
