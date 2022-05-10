@@ -5,7 +5,19 @@ Minutes, meeting 2022-05-09 (30 minutes)
 **Presentation:**
 
  - The initial 15 minutes was spent on presentation.
-
+ - The presentation consisted of :
+   - About us (a brief introduction about our teammates)
+   - Motivation
+   - Proposal
+   - Problem statement
+   - Automation of finished good process (a brief overview of our plan of action of the project)
+   - Data (the two different types of data we are working with, plots of data)
+   - Schedule (The different phases of our project and timeline associated with it)
+   - Deliverables
+   - Team communication (how we are effectively communicating as a team)
+   - Gannt chart
+   - Questions
+    
 **Questions and comments from advisors and data scientists:**
 
 **Questions:**
