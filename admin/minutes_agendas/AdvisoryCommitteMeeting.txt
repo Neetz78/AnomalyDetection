@@ -10,19 +10,19 @@ Minutes, meeting 2022-05-09 (30 minutes)
 
 **Questions**
 
- -  Difference between supervised and unsupervised learning?
+ -  **Difference between supervised and unsupervised learning?**
     Mentioned about how supervised and unsupervised learning works and linked it to the problem statement 
       
- -  How do we plan on accommodating the different lengths of different signals?
+ -  **How do we plan on accommodating the different lengths of different signals?**
     We decided to try dynamic time warping to align two signals
     
- -  How does mixture model work?
+ -  **How does mixture model work?**
     Mixture model works by assigning probability of each data point being in a predicted cluster
     
- -  Where does feature selection portion of the project fall into?
+ -  **Where does feature selection portion of the project fall into?**
     The feature selection and engineering portion falls into the modelling phase of the project
     
- -  How do you plan to augment the data?
+ -  **How do you plan to augment the data?**
     We plan to identify the time window which is important in time series data. This wimdow will be primarily focussed to generate similar waveforms.
     
  **Comments**
