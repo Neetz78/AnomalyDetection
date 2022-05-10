@@ -1,6 +1,7 @@
-Minutes, meeting 2022-05-09 (30 minutes)
+# Advisory committee meeting
+## May 9, 2022
 
-**Agenda : Presenting the proposal of the capstone problem**
+#### Agenda : Presenting the proposal of the capstone problem
 
 **Presentation:**
 
