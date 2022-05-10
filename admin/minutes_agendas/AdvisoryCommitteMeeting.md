@@ -8,7 +8,7 @@ Minutes, meeting 2022-05-09 (30 minutes)
 
 **Questions and comments from advisors and data scientists:**
 
-**Questions**
+**Questions:**
 
 **Difference between supervised and unsupervised learning?**
  -  Mentioned about how supervised and unsupervised learning works and linked it to the problem statement 
@@ -25,7 +25,7 @@ Minutes, meeting 2022-05-09 (30 minutes)
 **How do you plan to augment the data?**
  -  We plan to identify the time window which is important in time series data. This wimdow will be primarily focussed to generate similar waveforms.
     
- **Comments**
+ **Comments:**
  
 **Comment on client generating more pin contact error data**
  -  The ratio of pin contact to successful readings (80:1 million) seemed very big and hence the client decided to generate more pin contact readings synthetically
