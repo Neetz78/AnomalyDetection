@@ -8,6 +8,6 @@
 | May 6| [Proposal Questions cont.](ProposalQuestionsMeeting3.md) | Minutes | Sara, Justine, Neethu, Saisree, Levannia, Aditya, Mike|
 | May 9| [Advisory committee meeting](AdvisoryCommitteMeeting.md)| Minutes |Saisree, Neethu, Justine, Sara, Aditya Saluja, Michael Nash, Levannia, Advisors(Matthew Blackie, John Kaldis, Michael Manske, Calena Marchand, Greg Mattiussi) |
 | May 9| [MDS Weekly Check-In](MDSWeeklyCheckIns.md)| Minutes |Saisree, Neethu, Justine, Sara, Firas, Irene, Debangsha, David |
-
+| May 13| [Check in with Siemens](may13_minutes.pdf) | Minutes | Sara, Justine, Neethu, Saisree, Levannia, Aditya, Mike|
 
 
