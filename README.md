@@ -7,7 +7,7 @@ This project aims to compare various machine learning pipelines that perform clu
 - Justine Filion : one sentence about you!
 - Saisree GR : An ethusiastic student and researcher who loves data science, hot chocolate and reading books 🤓
 - Neethu Gopalakrishna : Loves to cook,code and dance!!
-- Sara Hall : one sentence about you!
+- Sara Hall : Loves being active and outside - passionate about running, cycling, hiking, and cross-country skiing 🚵‍♀️
 
 ## Describe your topic/interest in about 150-200 words
 
