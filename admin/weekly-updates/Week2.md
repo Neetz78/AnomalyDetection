@@ -1,0 +1,13 @@
+**Overall Progress at the end of Week 2 (May 9 - 15)
+- Wrangled the data files, see the following code (one of our deliverables is to provide Siemens with pre-processsing scripts. Once our pipelines are further developed and we know what we want, we will turn the notebooks into scripts. 
+  - Number of readings in the timeseries and the predictors match
+    - SeparateLabels.ipynb
+    - CheckMissingLables.ipynb
+  - Removed columns that were not useful
+    - Decided we are going to ignore the predictors for now. 
+  - Standardized the waveforms and removed wet-up periods
+     - exolore_time_series.ipynb
+     - standardize.py
+- Did lots of reading into whole time series clustering methodology. 
+- Gained a better understanding of filtering
+- Decided to start with all pin contacts and all unsuccessful readings
