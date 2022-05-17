@@ -5,7 +5,7 @@ This project aims to compare various machine learning pipelines that perform clu
 ## Team Members
 
 - Justine Filion : one sentence about you!
-- Saisree GR : one sentence about you!
+- Saisree GR : An ethusiastic student and researcher who loves data science, hot chocolate and reading books 🤓
 - Neethu Gopalakrishna : Loves to cook,code and dance!!
 - Sara Hall : one sentence about you!
 
