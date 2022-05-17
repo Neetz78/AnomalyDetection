@@ -4,10 +4,10 @@ This project aims to compare various machine learning pipelines that perform clu
 
 ## Team Members
 
-- Justine Filion : one sentence about you!
-- Saisree GR : one sentence about you!
-- Neethu Gopalakrishna : one sentence about you!
-- Sara Hall : one sentence about you!
+- Justine Filion : Loves travelling and spending time with friends and family - also an avid skier! 
+- Saisree GR : An ethusiastic student and researcher who loves data science, hot chocolate and reading books 🤓
+- Neethu Gopalakrishna : Loves to cook, code and dance!!
+- Sara Hall : Loves being active and outside - passionate about running, cycling, hiking, and cross-country skiing 🚵‍♀️
 
 ## Describe your topic/interest in about 150-200 words
 
