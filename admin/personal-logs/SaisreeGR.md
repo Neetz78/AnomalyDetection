@@ -11,15 +11,15 @@
 | May10 | 8   | <ul><li>Meeting with team to discuss progress and POA [30 mins]</li><li>Applied filter on the unsuccessful waveform[1:30 hrs]</li><li>Brainstorm on what is to be filtered [1:30 hrs]</li><li>Searched for literature indicating common filters used in createnine sensors/ enzymatic sensors [ 2hrs]</li><li>Read about fourier transform and dynamic warping [1 hr]</li><li>Attempted to code dynamic warping [1:30 hrs]</li><li>Updating daily logs [30 mins]</li></ul>                                        |
 | May11 |  8:15    |    <ul><li>Internal meeting - progress and POA[45 mins]</li><li>Learnt applied Digital Signal Processing(DSP) [ 2 hrs ] </li><li>Modified the parameters of filters  to suit the creatinine sensor[2 hrs]</li><li>Applying metrics to quanity the filtered signals and actual signal [30 mins]</li><li>More of dynamic warping [1 hr]</li><li>Fourier transformation - learning and code implementation [2 hrs ]</li><li>Updating daily logs [15 mins]</li></ul>       |
 | May12 |   8   |<ul><li>Internal meeting - progress and POA[ 1:15 mins]</li><li>Meeting with sarah for clarification [15 mins]</li><li>Understanding standardisation and normalization of different waveforms to recognize any different patterns[30 mins]</li><li>Comparing a standarised and unstandardies noise to look for patterns [30 mins]</li><li>Determining fs and the operating signal [30 mins]</li><li> Applying band pass filters on all waveforms [2 hrs]</li><li>Slides preparation [ 2 hrs] </li><li>Dry run of the presentation [30 mins]</li></ul>   |
-| May13 |   8  |<ul><li>Meeting with client - Siemens Healthineers [45 mins]</li><li>Internal team meeting - progress and POA [30 mins]</li><li>Literature for different shape features[1 hr]</li><li></li></ul> |
+| May13 |   7 |<ul><li>Meeting with client - Siemens Healthineers [45 mins]</li><li>Internal team meeting - progress and POA [30 mins]</li><li>Literature for different shape features[1 hr]</li><li>Exploring DTW [2 hrs]</li><li>DTW on different windows [2 hrs]</li><li>Presentation slides [30 mins]</li><li>Updating logs[15 mins]</li></ul> |
+| May16 | X     |     <ul><li>Client call [30 mins]</li><li>Internal meeting [20 mins]</li><li>Finding the outliers in different windows[1 hrs]</li><li></li><li>Filtering the standardised signals [1 hr]</li><li></li></ul>                                     |
 | May0X | X     |                                          |
 | May0X | X     |                                          |
 | May0X | X     |                                          |
 | May0X | X     |                                          |
 | May0X | X     |                                          |
 | May0X | X     |                                          |
-| May0X | X     |                                          |
-| May0X | X     |                                          |
+| May0X | X     |                                          |    `
 | ----- | ----- | -------------- End of May -------------- |
 | Jun0X | X     |                                          |
 | Jun0X | X     |                                          |
