@@ -63,12 +63,13 @@ The clients needs to make sure that each batch has a limited number of pincontac
 - Informed them that the clients have confirmed that the labels are legit, and data has no errors.
 
 - Looks like this a problem of unsupervised anomaly detection.
-- Take advantage of all digital signal processing techniques, such as band-pass filtering , low pass filtering, spectral residual, fourier transform.\
-    - Informed them that fourier transform essentail only gives frequency information, Hence we are considering DWT(Discrete wavelet transforms).
-    - We have to extract some features from the time series , wothout that we wont be able to cluster raw time series data.
+- Take advantage of all digital signal processing techniques, such as band-pass filtering , low pass filtering, spectral residual, fourier transform.
+    - Informed them that fourier transform essentailly only gives frequency information, Hence we are considering DWT(Discrete wavelet transforms).
+    - We have to extract some features from the time series , without that we wont be able to cluster raw time series data.
     - Look into dynamic time wrapping, looking forward to see your results in the next week.
   
  ### Units in the plot?
+ 
  - X-axis is the time and Y-axis is the current, always include the units in the plots.
 
 
