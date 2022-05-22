@@ -16,16 +16,16 @@ We also presented the agenda that would be used in meeting with advisor on May 2
 
 # Suggestions and questions asked:
 
-Q1: Is standardizing reducing information?
+Q1: Is standardizing reducing information? <br>
     Maybe. Would have to explore with raw data for the next week.
 
-Q2: How do technology analysts typically label a pin contact?
+Q2: How do technology analysts typically label a pin contact? <br>
     When the calibration mean is 0, they usually classify it as pin contact
 
-S1: Three types of pin contact error :
+S1: Three types of pin contact error : <br>
 	  Glue on card, glue on connector, scratch on the card
 
-S2: Number of clusters:
+S2: Number of clusters: <br>
 	  Deciding based on the return codes for unsuccessful and the 3 types of producing pin contact error
 
 S3: Try separating the PCA clusters by height
