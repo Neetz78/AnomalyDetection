@@ -28,7 +28,7 @@ We also presented the agenda that would be used in meeting with advisor on May 2
 ### Number of clusters: <br>
 	  Deciding based on the return codes for unsuccessful and the 3 types of producing pin contact error
 
-** Try separating the PCA clusters by height and try applying clustering on filtered data **
+**Try separating the PCA clusters by height and try applying clustering on filtered data**
 
 Decided to present to the data review meeting of Siemens Healthineers to practice for the mid-term presentation
 
