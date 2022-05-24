@@ -12,5 +12,6 @@
 | May 16| [Check in with Siemens](may16minutes.md) | Minutes | Sara, Justine, Neethu, Saisree, Levannia, Aditya, Mike|
 | May 17| [MDS Weekly Check-in](may17minutes.md) | Minutes | Sara, Justine, Neethu, Saisree, Irene, Debangsha|
 | May 20| [Check in with Siemens](may20minutes.md) | Minutes| Sara, Neethu, Justine, Saisree, Aditya, Levannia|
+| May 24| [MDS Weekly Check-in](May24.md) | Minutes | Sara, Justine, Neethu, Saisree, Irene, Debangsha|
 
 
