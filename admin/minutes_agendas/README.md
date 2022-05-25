@@ -15,4 +15,5 @@
 | May 24| [Check in with Siemens](May25SiemensCheckinMinutes.pdf) | Minutes | Sara, Justine, Neethu, Saisree, Levannia, Aditya|
 | May 24| [MDS Weekly Check-in](May24.md) | Minutes | Sara, Justine, Neethu, Saisree, Irene, Debangsha|
 | May 24| [Check in with Siemens](may24(additional).md) | Minutes | Sara, Justine, Levannia, Aditya|
+| May 24| [Advisory committee meeting](24AdvisoryCommitteMeeting.md)| Minutes |Saisree, Neethu, Justine, Sara, Aditya Saluja, Michael Nash, Levannia, Advisors(Matthew Blackie, Michael Manske) |
 
