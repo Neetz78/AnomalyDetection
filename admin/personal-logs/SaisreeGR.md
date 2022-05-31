@@ -18,10 +18,10 @@
 | May19 | 8:45     |     <ul><li>Internal meeting [30 mins]</li><li>Code to automate storing hyper parameters [ 1:30 hrs] </li><li>Hyper parameter tuning for calibration data [standardized and windowed] [1:30 hrs] </li><li>Hyper parameter tuning for sample data [standardized and windowed] [1 hrs]</li><li>Hyper parameter tuning for post data [standardized and windowed] [1 hrs]</li><li>Exploring outliers in filtered data and standardized data[1 hr]</li><li>Updating logs [20 mins]</li><li>Internal meeting [30 mins]</li><li>Slides for checkin [ 1:30 hrs]</li></ul>                                     |
   | May20 | 7     |        <ul><li>Internal dry run [30 mins]</li><li>Check in with Siemenes [ 1hr]</li><li>Internal meeting [15 mins]</li> <li>Minisom on window and standardised data[ all windows] [ 2 hrs]</li><li>Hyper parameter tuning for all windows of mentioned data [ 1 hr]</li><li>Meeting with Justine [10 mins]</li><li>Checking the  pattern associated with outliers [ 1 hr] </li><li>Updating logs [ 15 mins]</li><li>Drafting and finalizing minutes of meeting [45 mins]</li></ul>                                  |
 | May23 | 4    |  <ul>  <li> Internal meeting [20 mins] </li><li>Brainstorming session with team to discuss further steps [2:30 hrs] </li> <li>Logs updation [15 mins]</li> <li>Finishing slides [30 mins]</li> <li> Research about further steps [30 mins]</li> </ul>                                   |
-| May24 | 8     |     <ul><li></li<li></li<li></li<li></li<li></li</ul>                                     |
-| May25 | 8     |                                          |    `
-| ----- | ----- | -------------- End of May -------------- |
-| Jun0X | X     |                                          |
+| May24 | 9     |     <ul><li>Client meeting [ 1:30 hrs] </li><li> Internal meeting [30 mins]</li><li> Log meeting with Debangsha [30 mins]</li><li>Client advisory meeting [ 1hr] </li><li>Team meeting to discuss further steps [1 hr[</li><li>Brainstorming with neethu [1 hr]</li><li>Trting out low pass filter [1 hr] on standardized and unstandardized waveform</li><li>Brainstorming and researching about different metrics for comparison of two signals [ 2 hrs]</li><li>Updating logs [ 30 mins]</li></ul>                                     |
+| May25 | 8     |      <ul><li></li><li></li><li></li><li></li><li></li><li></li></ul>                                    |    `
+| May26 | 8
+| May27 | 4     |    <ul><li>Client meeting [1 hr]</li><li>Dry run [30 mins]</li><li>Minutes of meeting draft [45 mins]</li><li>Brainstorming about convolution and research [1:30 hrs]</li><li>Log updation [15 mins]</li></ul>                                      |
 | Jun0X | X     |                                          |
 | Jun0X | X     |                                          |
 | Jun0X | X     |                                          |
