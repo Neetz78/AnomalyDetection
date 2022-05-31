@@ -17,9 +17,9 @@
 | May18 | 8     |   <ul><li>Internal meeting [ 45 mins] </li><li> Getting the cleaned and windowed data [1 hr] </li><li>Trying minisom on calibration window [1 hr]</li> <li>Making a function to automate parameter and function call [ 2 hrs] </li><li>Trying minisom on sample window [1 hr]</li><li>Trying minisom on the post window [1 hr]</li><li>Log meeting with Debangsha [ 15 mins] </li><li>Meeting with Sarah to discuss PCA and share thoughts [30 mins] </li><li>Updating logs[2 hrs]</li></ul>                                       |
 | May19 | 8:45     |     <ul><li>Internal meeting [30 mins]</li><li>Code to automate storing hyper parameters [ 1:30 hrs] </li><li>Hyper parameter tuning for calibration data [standardized and windowed] [1:30 hrs] </li><li>Hyper parameter tuning for sample data [standardized and windowed] [1 hrs]</li><li>Hyper parameter tuning for post data [standardized and windowed] [1 hrs]</li><li>Exploring outliers in filtered data and standardized data[1 hr]</li><li>Updating logs [20 mins]</li><li>Internal meeting [30 mins]</li><li>Slides for checkin [ 1:30 hrs]</li></ul>                                     |
   | May20 | 7     |        <ul><li>Internal dry run [30 mins]</li><li>Check in with Siemenes [ 1hr]</li><li>Internal meeting [15 mins]</li> <li>Minisom on window and standardised data[ all windows] [ 2 hrs]</li><li>Hyper parameter tuning for all windows of mentioned data [ 1 hr]</li><li>Meeting with Justine [10 mins]</li><li>Checking the  pattern associated with outliers [ 1 hr] </li><li>Updating logs [ 15 mins]</li><li>Drafting and finalizing minutes of meeting [45 mins]</li></ul>                                  |
-| May0X | X     |                                          |
-| May0X | X     |                                          |
-| May0X | X     |                                          |    `
+| May23 | 4    |  <ul>  <li> Internal meeting [20 mins] </li><li>Brainstorming session to discuss further steps [2:30 hrs] </li> <li>Logs updation [15 mins]</li> </ul>                                   |
+| May24 | 8     |     <ul><li></li<li></li<li></li<li></li<li></li</ul>                                     |
+| May25 | 8     |                                          |    `
 | ----- | ----- | -------------- End of May -------------- |
 | Jun0X | X     |                                          |
 | Jun0X | X     |                                          |
