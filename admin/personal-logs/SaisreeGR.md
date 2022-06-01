@@ -22,8 +22,8 @@
 | May25 | 8:15     |      <ul><li>Researching about different filtering techniques [ 1:30 hrs]</li><li>Coding band pass filters and hyper parameter tuning[1 hr] </li><li>Researching and trying MSE and cross correlation as metrics [ 2 hrs] </li><li>Met with the team to discuss findings and further steps [ 1:30 hrs]</li><li> Researching about other metrics [2 hrs]</li><li>Updating logs[15 mins]</li></ul>                                    |    `
 | May26 | 7    | <ul><li> Internal meeting - brainstorming and sharing findings[ 1:30 hrs]</li><li> Brainstorming with Neethu [30 mins] </li><li> Trying out sarah's periodogram approoach on low pass filters [ 2 hrs] </li><li>Trying same approach on band pass filter [1 hr]</li><li>Cleaning notebook [1:30 hrs] </li><li>Updating logs[15 mins] </li></ul>|
 | May27 | 4     |    <ul><li>Client meeting [1 hr]</li><li>Dry run [30 mins]</li><li>Minutes of meeting draft [45 mins]</li><li>Brainstorming about convolution and research [1:30 hrs]</li><li>Log updation [15 mins]</li></ul>                                      |
-| Jun0X | X     |                                          |
-| Jun0X | X     |                                          |
+| May30 | 8     |       <ul><li>Dry run and internal meeting for data review meeting [1 hr]</li><li>Data review meeting [1 hr]</li><li>Dry run and slide check with rubric [4 hrs]</li><li>Cleaning notebook [1 hr] </li><li>Log updation[30 mins]</li></ul>                                  |
+| May31 | 8:30     |  <ul><li>Mid term presentation [3:30 hrs]</li><li>Finaly dry run [30 mins]</li><li>Log checking [30 mins]</li><li>Applying SOM on calibration window of convoluted wavefroms [ 1 hr]</li><li>Hyper parameter tuning [1 hr]</li><li>Plotting the clusters and analysing them[1:30 hrs]</li><li>Internal meeting [15 mins]</li><li>Log updation [15 mins]</li></ul>                                        |
 | Jun0X | X     |                                          |
 | Jun0X | X     |                                          |
 | Jun0X | X     |                                          |
