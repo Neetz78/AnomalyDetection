@@ -5,7 +5,7 @@ We presented our filtering techniques
 Is savgol more sensitive to readings at the end?
 Yes, they seem to be more sensitive than moving average
 
-Look into convolution which is used for noise reduction which translates to extracting important features and then apply filter
+Aditya - Look into convolution which is used for noise reduction which translates to extracting important features and then apply filter
 
 Where are we going next ? 
 - Convolution and clustering algorithms
