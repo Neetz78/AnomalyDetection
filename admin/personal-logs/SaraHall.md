@@ -32,7 +32,7 @@
  | ----- | ----- | -------------- End of May -------------- |
 | Jun01 | 8    |     <ul><li> Did some quick code cleanup in prep for our meeting (30 mins) </li><li>Met with Aditya, Mike, and Levannia for a code review and to update them on our progress (1 hour) </li><li>Captured detailed meeting minutes (1 hour) </li><li>Worked on trying different things to see how the clusters change and if I could improve performance  (5 hours) </li><li>Started reading into ways of competing clustering models so we can try and figure out when we’re getting the ‘good’ clusters (30 mins) </li></ul>                                     |
 | Jun02 | 8     |     <ul><li> Played around with different parameters for kmeans clustering (2 hours) </li><li>Made a cleaned up and well documented notebook with all of the preprocessing functions and a demo of how to use them.  (4 hours) </li><li>Debugged why I suddenly couldn’t get the same clusters as yesterday even though I had the seed set. It turns out I ran my cells in a weird order and was accidentally clustering on a column with the clusters from a previous attempt (2 hours) </li></ul>                                     |
-| Jun0X | X     |                                          |
+| Jun03 | 8     |     <ul><li> Weekly check-in with Mike, Aditya, and Levania (30 mins)</li> <li>Met with the team to discuss progress (30 mins) </li><li>Worked on writing/documenting code to describe clusters (7 hours)</li></ul>                                     |
 | Jun0X | X     |                                          |
 | Jun0X | X     |                                          |
 | Jun0X | X     |                                          |
