@@ -26,8 +26,8 @@
 | May31 | 8:30     |  <ul><li>Mid term presentation [3:30 hrs]</li><li>Finaly dry run [30 mins]</li><li>Log checking [30 mins]</li><li>Applying SOM on calibration window of convoluted wavefroms [ 1 hr]</li><li>Hyper parameter tuning [1 hr]</li><li>Plotting the clusters and analysing them[1:30 hrs]</li><li>Internal meeting [15 mins]</li><li>Log updation [15 mins]</li></ul>                                        |
 | ----- | ----- | -------------- End of May ------------- |
 | Jun01 | 8     |   <ul><li>Dry run with team [30 minutes]</li><li> Client meeting [ 1 hr]</li>Smoothing (savgol) [ 1 hr] </li><li>SOM hyper parameter tuning and analysing[ 3:30 hrs] </li><li>Trying dtw-som [ 1 hr]</li> <li>Log meeting with Debangsha [ 30 minutes]</li><li>Updating logs [ 30 minutes]</li></ul>                                       |
-| Jun02 | 7:30     |     <ul><li> Trying other approaches to SOM [ 3 hrs] </li><li>Brainstorming on different metrics possible [ 30 minutes] </li><li>Analysing unsuccessful clusters in SOM [ 1:30 hrs]</li><li>Analysing pincontact clusters in SOM [2 hrs]</li><li>Updating logs [30 minutes]</li><li></li><li></li></ul>                                     |
-| Jun03 | 7     |                                          |
+| Jun02 | 7:30     |     <ul><li> Trying other approaches to SOM [ 3 hrs] </li><li>Brainstorming on different metrics possible [ 30 minutes] </li><li>Analysing unsuccessful clusters in SOM [ 1:30 hrs]</li><li>Analysing pincontact clusters in SOM [2 hrs]</li><li>Updating logs [30 minutes]</li></ul>                                     |
+| Jun03 | 7     |       <ul><li>Team meeting [30 minutes]</li><li>Client meeting [ 1 hr]</li><li>Slides creation [2 hrs]</li><li>Cleaning notebook [ 2 hrs]</li><li>Documenting work [30 minutes]</li><li>Updating logs [30 minutes]</li></ul>                                   |
 | Jun0X | X     |                                          |
 | Jun0X | X     |                                          |
 | ----- | ----- | -------------- End of June ------------- |
