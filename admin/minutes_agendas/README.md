@@ -19,4 +19,4 @@
 | May 27| [Check in with Siemens](may27checkin.md)| Minutes|Sara, Justine, Neethu, Saisree, Levannia, Aditya | 
 | June 1| [Check in with Siemens](june1minutes.pdf) | Minutes | Sara, Justine, Neethu, Saisree, Levannia, Aditya, Mike|
 | June 3| [Check in with Siemens](june3_minutes.md) | Minutes | Sara, Justine, Neethu, Saisree, Levannia, Aditya, Mike|
-
+| June 6| [Advisory committee meeting](6JunAdvisoryCommitteMeeting.md) | Minutes | Sara, Justine, Neethu, Saisree, Levannia, Aditya, Mike,Advisors(Matthew Blackie, John Kaldis, Michael Manske, Calena Marchand, Greg Mattiussi)|
