@@ -28,7 +28,11 @@
 | Jun01 | 8     |   <ul><li>Dry run with team [30 minutes]</li><li> Client meeting [ 1 hr]</li>Smoothing (savgol) [ 1 hr] </li><li>SOM hyper parameter tuning and analysing[ 3:30 hrs] </li><li>Trying dtw-som [ 1 hr]</li> <li>Log meeting with Debangsha [ 30 minutes]</li><li>Updating logs [ 30 minutes]</li></ul>                                       |
 | Jun02 | 7:30     |     <ul><li> Trying other approaches to SOM [ 3 hrs] </li><li>Brainstorming on different metrics possible [ 30 minutes] </li><li>Analysing unsuccessful clusters in SOM [ 1:30 hrs]</li><li>Analysing pincontact clusters in SOM [2 hrs]</li><li>Updating logs [30 minutes]</li></ul>                                     |
 | Jun03 | 7     |       <ul><li>Team meeting [30 minutes]</li><li>Client meeting [ 1 hr]</li><li>Slides creation [2 hrs]</li><li>Cleaning notebook [ 2 hrs]</li><li>Documenting work [30 minutes]</li><li>Updating logs [30 minutes]</li></ul>                                   |
-| Jun0X | X     |                                          |
-| Jun0X | X     |                                          |
+| Jun06 | 6:30     |    <ul><li>Internal meeting for dry run [ 45 mins]</li><li>Finishig irene's slides [1 hr]</li><li>Cleaning my notebook[ 45 mins]</li><li>Advisory committee meeting [ 1 hr]</li><li>Debugging and cleaning notebook [3 hrs]</li><li></li><li>Updating logs [15 mins]</li></ul>                                      |
+| Jun07 | 8     |    <ul><li>Dry run [30 mins]</li><li>Finishing cleaning up notebook [45 mins]</li><li>Irene's meeting [30 mins]</li><li>Cleaning neethu's notebook [45 minutes]</li><li>Verified code run [15 mins]</li><li></li><li></li><li></li><li>Updating logs[15 mins]</li></ul>|
+| Jun08 | X     |                                          |
+| Jun09 | X     |                                          |
+| Jun10 | X     |                                          |
+| Jun11 | X     |                                          |
 | ----- | ----- | -------------- End of June ------------- |
 
