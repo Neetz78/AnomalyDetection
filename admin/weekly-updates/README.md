@@ -12,3 +12,4 @@ Place your weekly status updates in this folder before your weekly meeting.
 | May 16-22| [Week 3](Week3.md) | Sara, Justine, Neethu, Saisree|
 | May 23-29| [Week 4](Week4.md) | Sara, Justine, Neethu, Saisree|
 | May 30-June 3| [Week 5](Week5.md) | Sara, Justine, Neethu, Saisree|
+| June 6-June 10| [Week 6](Week6.md) | Sara, Justine, Neethu, Saisree|
