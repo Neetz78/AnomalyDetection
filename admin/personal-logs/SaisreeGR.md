@@ -32,7 +32,7 @@
 | Jun07 | 8:30     |    <ul><li>Dry run [30 mins]</li><li>Finishing cleaning up notebook [1:30 hrs]</li><li>Irene's meeting [30 mins]</li><li>Cleaning neethu's notebook [1:30 hrs]</li><li>Verified code run [30 mins]</li><li>Adding comments to notebook [2 hrs]</li><li>Meeting with Siemens [20 mins]</li><li>Updating logs[30 mins]</li><li>Updating weekly update and MOM[1:30 hrs]</li></ul>|
 | Jun08 | 8     |       <ul><li>Reviewed and modified Random Forests notebook [2 hrs]</li><li>Reviewed autoencoder notebook [1 hr]</li><li>Prepared code for achive files [3 hrs]</li> <li>Made glossary for the files [1 hr]</li><li>Update daily logs [30 mins]</li></ul>                                   |
 | Jun09 | 5     |    <ul><li>Updated readme file [ 2 hrs]</li><li>Started documenting the SOM algorithm [ 2:30 hrs]</li><li>Updated logs [20 mins]</li></ul>                                      |
-| Jun10 | 4     |    <ul><li>Meeting with Siemens [1 hr]</li><li>Brainstorm on the structure of report [20 mins]</li><li></li><li></li></ul>                                      |
-| Jun13 | X     |                                          |
+| Jun10 | 4     |    <ul><li>Meeting with Siemens [1 hr]</li><li>Brainstorm on the structure of report [20 mins]</li><li>Continued the SOM algorithm [2 hrs]</li><li>Updating daily logs[30 mins]</li></ul>                                      |
+| Jun13 | 7     |      <ul><li>Drafted data, SOM algorithm and pipeline portion of the final report [ 7 hrs]</li><li>Updated daily logs [30 mins]</li></ul>  |
 | ----- | ----- | -------------- End of June ------------- |
 
