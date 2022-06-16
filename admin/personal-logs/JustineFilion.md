@@ -42,5 +42,6 @@
 | Jun 10 |  4  |<ul><li> Had a meeting with the client to go voer our file structure and the skeleton for our final report (1 hour)</li><li> Worked on the intro for the methodology section of the final report (3 hours)</li>
 | Jun 13 |  9  |<ul><li> Worked on the final report (PCA section, explaining cross-correlation, completing table with various pipelines, rereading background and other sections) (8.75 hours)</li><li> Completed the weekly update (15 mins)</li>|
 | Jun 14 |  9  |<ul><li> Prepared and presented our weekly update (1 hour)</li><li>Worked on the final report (TSFresh, KMeans, KShape) (8 hours)</li>|
+| Jun 15 |  11  |<ul><li> Worked on the final report (edited lots of sections, decided how we wanted to format the methods section and what to put in the results, starting cleaning the report and making appendices, starting describing the pipelines)</li>|
 | ----- | ----- | -------------- End of June ------------- |
 
