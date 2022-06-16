@@ -23,3 +23,4 @@
 | June 7| [MDS Weekly Check-in](june7minutes_MDS.md)| Minutes | Sara, Justine, Neethu, Saisree, Irene , Debangsha |
 | June 7| [Check in with Siemens](june7minutes.pdf) | Minutes | Sara, Justine, Neethu, Saisree, Levannia, Aditya |
 | June 10| [Check in with Siemens](june10.md) | Minutes | Sara, Justine, Neethu, Saisree, Levannia|
+| June 15| [MDS Weekly Check-in](june14minutes.md) | Minutes | Sara, Justine, Neethu, Saisree, Irene, Debangsha|
