@@ -43,5 +43,6 @@
 |Jun15| 9 |  <ul><li> Worked on the final paper (9 hours) </li></ul>|
 |Jun16| 9 |  <ul><li> Worked on the final paper (9 hours) </li></ul>|
 |Jun17| 12 |  <ul><li> Worked on the final paper (5 hours) </li><li> Worked on the final presentation (7 hours) </li></ul>|
+|Jun18| 3 | <ul><li> polished final presentation (1 hours) </li><li> Anonymized code so it can be uploaded to github (2 hours) </li></ul>|
 | ----- | ----- | -------------- End of June ------------- |
 
