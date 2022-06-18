@@ -41,5 +41,7 @@
 | Jun13 | 8.5     |  <ul><li>Finished editing the intro and wrote the background section for the final report (8.5 hours) </li></ul>                                      |
   | Jun14 | 9 | <ul><li> Prepared for and gave our weekly MDS check-in presentation (1 hours) </li><li>Proofread the intro and background and sent them off to Levannia for review (1 hour) </li><li> Worked on fully writing up and explaining all the preprocessing steps for our final report (7 hours) </li></ul>|
   |Jun15| 9 |  <ul><li> Worked on the final paper (9 hours) </li></ul>
+    |Jun16| 9 |  <ul><li> Worked on the final paper (9 hours) </li></ul>
+    |Jun17| 9 |  <ul><li> Worked on the final paper (5 hours) </li><li> Worked on the final presentation (7 hours) </li></ul>
 | ----- | ----- | -------------- End of June ------------- |
 
