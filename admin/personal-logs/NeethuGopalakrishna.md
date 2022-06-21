@@ -36,6 +36,11 @@
 | Jun09 | 6     |<ul><li>Completed my archive, glossary and uploaded it to the client cloud [2.5 hr]</li><li>Started the autoencoder part of the report [2 hr]</li><li>Started the weekly update slides for Irene [1 hr]</li><li>Updated daily logs[30 min]</li></ul>                                        |
 | Jun10 | 4     |<ul></li>Met with Levania for code review [1 hr]</li><li>Continued work on the autoencoder part [2.5 hr]</li><li>Updated daily logs[30 min]</li></ul>                                          |
 | Jun13 | 7     |<ul><li>Worked on weekly presentation slides [2.5 hr]</li><li>Final report on auto encoder and hierarchical clustering [4 hr]</li><li>Updated daily logs[30 min]</li></ul>                                        |
-| Jun0X |0    |                                |
+| Jun14 | 8     |<ul><li>Prepared and presented in our weekly MDS checkin  [1 hr]</li><li>Worked on random forest and gmm part of the report [6.5 hr]</li><li>Updated daily logs[30 min]</li></ul>                                        |
+| Jun15 | 8     |<ul><li>Worked on the final paper [8 hr]</li></ul>                                        |
+| Jun16 | 8     |<ul><li>Worked on final paper [3.5 hr]</li><li>Prepaed slides for adivsory committe meeting[4 hr]</li><li>Wrote mintues of meeting[30 min]</li></ul>                                        |
+| Jun17 | 4.5     |<ul><li>Worked on reviewing the final report before sending for approval [3.5 hr]</li><li>Updated weekly log for the team.[30 min]</li><li>Updated daily logs[30 min]</li></ul>                                        |
+| Jun20 | 9     |<ul><li>Prepared and presented our findings to the advisory committe  [2 hr]</li><li>Final report and presentaiton editng before submission,[2 hr]</li><li>Preparation for the final presentation [5 Hr]</li></ul>                                        |
+| Jun21 |5    | Attedned the final capstone presentation [5 hr]                              |
 | ----- | ----- | -------------- End of June ------------- |
 
