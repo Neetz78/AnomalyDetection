@@ -39,5 +39,6 @@
 | Jun16 | 7 | <ul><li>Drafted executive summary [ 7 hrs]</li></ul> |
 | Jun17 | 3 | <ul><li>Siemens checkin [1 hr]</li><li>Edited executive summary [ 2 hrs]</li></ul> |
 | Jun20 | 8| <ul><li>Final edits [2 hrs]</li><li>Advisory meeting [ 45 mins]</li><li>Dry run for advisory [1 hr]</li><li>Dry run for final presentation [4 hrs]</li></ul> |
+| Jun21 | 5 | <ul><li>Attended and gave final presentation [5 hrs]</li></ul>|
 | ----- | ----- | -------------- End of June ------------- |
 
