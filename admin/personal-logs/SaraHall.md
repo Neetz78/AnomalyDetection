@@ -44,5 +44,7 @@
 |Jun16| 9 |  <ul><li> Worked on the final paper (9 hours) </li></ul>|
 |Jun17| 12 |  <ul><li> Worked on the final paper (5 hours) </li><li> Worked on the final presentation (7 hours) </li></ul>|
 |Jun18| 3 | <ul><li> polished final presentation (1 hours) </li><li> Anonymized code so it can be uploaded to github (2 hours) </li></ul>|
+|Jun20| 9 |  <ul><li> Got ready for and gave the final andvisory comittee presentation (2 hours) </li><li> Finished up the final report after revisions form Siemens (2 hours) </li><li> Got ready for final presentation (5 hours) </li></ul>|
+ |Jun21| 9 |  <ul><li> Attended and gave our final presentation (5 hours) </li></ul>|
 | ----- | ----- | -------------- End of June ------------- |
 
