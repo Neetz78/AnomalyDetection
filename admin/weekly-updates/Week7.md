@@ -1,0 +1,1 @@
+During the course of this week we all equally worked on drafting our final report, executive summary and prepare the slides for our final presentation.We had our executive summary reviewed by our clients. Presently the final report and slides have been mailed for thier approval.
