@@ -1,4 +1,4 @@
-This directory contains source code files needed for your project.# **Glossary**
+# **Glossary**
 
 Here is the glossary for the pipelines we produced in our second iteration. Of these pipelines, the autoencoder and KShape algorithms yielded the best results in terms of isolatig ECDs, and are probably what should be used in the future. 
 
