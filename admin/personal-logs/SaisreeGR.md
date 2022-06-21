@@ -33,6 +33,12 @@
 | Jun08 | 8     |       <ul><li>Reviewed and modified Random Forests notebook [2 hrs]</li><li>Reviewed autoencoder notebook [1 hr]</li><li>Prepared code for achive files [3 hrs]</li> <li>Made glossary for the files [1 hr]</li><li>Update daily logs [30 mins]</li></ul>                                   |
 | Jun09 | 5     |    <ul><li>Updated readme file [ 2 hrs]</li><li>Started documenting the SOM algorithm [ 2:30 hrs]</li><li>Updated logs [20 mins]</li></ul>                                      |
 | Jun10 | 4     |    <ul><li>Meeting with Siemens [1 hr]</li><li>Brainstorm on the structure of report [20 mins]</li><li>Continued the SOM algorithm [2 hrs]</li><li>Updating daily logs[30 mins]</li></ul>                                      |
-| Jun13 | 7:30     |      <ul><li>Drafted data, SOM algorithm and pipeline portion of the final report [ 7 hrs]</li><li>Updated daily logs [30 mins]</li></ul>  |
+| Jun13 | 7:30     |      <ul><li>Drafted data, SOM algorithm and pipeline portion of the final report [ 7 hrs]</li><li>Updated daily logs [15 mins]</li></ul>  |
+| Jun14 | 7 | <ul><li>Edited pipeline portion of report [7 hrs]</li><li>updated logs [15 mins]</li></ul>|
+| Jun15 | 6 | <ul><li>Edited RF and autoencoder portion of report [6 hrs]</li><li>Updated logs [15 mins]</li></ul> |
+| Jun16 | 7 | <ul><li>Drafted executive summary [ 7 hrs]</li></ul> |
+| Jun17 | 3 | <ul><li>Siemens checkin [1 hr]</li><li>Edited executive summary [ 2 hrs]</li></ul> |
+| Jun20 | 8| <ul><li>Final edits [2 hrs]</li><li>Advisory meeting [ 45 mins]</li><li>Dry run for advisory [1 hr]</li><li>Dry run for final presentation [4 hrs]</li></ul> |
+
 | ----- | ----- | -------------- End of June ------------- |
 
