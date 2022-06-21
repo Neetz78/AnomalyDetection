@@ -44,5 +44,7 @@
 | Jun 14 |  9  |<ul><li> Prepared and presented our weekly update (1 hour)</li><li>Worked on the final report (TSFresh, KMeans, KShape) (8 hours)</li>|
 | Jun 15 |  11  |<ul><li> Worked on the final report (edited lots of sections, decided how we wanted to format the methods section and what to put in the results, starting cleaning the report and making appendices, starting describing the pipelines)</li>|
 | Jun 16 |  9  |<ul><li> Had a meeting with the client to go over executive summary and final report (30 min)</li><li>Worked on the final report (editing, removing confidential info) (2 hours)</li> Edited the advisory committee meeting slides to fit the format of the final report (6.5 hours)<li>|
+| Jun 20 |  9  |<ul><li> Practiced for the last advisory committee/gave the presentation (2 hours)</li><li> Finished the slides/presentation after having them reviewed by our client (3 hours)</li><li> Practice for the final presentation (4 hours)</li>|
+| Jun 21 |  5  |<ul><li> Gave our final presentation and listened to the others' presentation (5 hours)</li>|
 | ----- | ----- | -------------- End of June ------------- |
 
