@@ -41,5 +41,8 @@
 | Jun 09 |  5  |<ul><li> Added Saisrees archive notebooks and glossary to the final structure. Emailed the client with the requirements.txt file. Downloaded the presentations to their cloud as well as the final folder containing all of our code and data (30 mins)</li><li> Had a meeting with the team to discuss next steps (15 min)</li><li>Brainstormed how we should format the final report with Sara (included making flow charts) (30 min)</li><li>Built a summary table detailing all of our attempts (3.75 hours)</li>
 | Jun 10 |  4  |<ul><li> Had a meeting with the client to go voer our file structure and the skeleton for our final report (1 hour)</li><li> Worked on the intro for the methodology section of the final report (3 hours)</li>
 | Jun 13 |  9  |<ul><li> Worked on the final report (PCA section, explaining cross-correlation, completing table with various pipelines, rereading background and other sections) (8.75 hours)</li><li> Completed the weekly update (15 mins)</li>|
+| Jun 14 |  9  |<ul><li> Prepared and presented our weekly update (1 hour)</li><li>Worked on the final report (TSFresh, KMeans, KShape) (8 hours)</li>|
+| Jun 15 |  11  |<ul><li> Worked on the final report (edited lots of sections, decided how we wanted to format the methods section and what to put in the results, starting cleaning the report and making appendices, starting describing the pipelines)</li>|
+| Jun 16 |  9  |<ul><li> Had a meeting with the client to go over executive summary and final report (30 min)</li><li>Worked on the final report (editing, removing confidential info) (2 hours)</li> Edited the advisory committee meeting slides to fit the format of the final report (6.5 hours)<li>|
 | ----- | ----- | -------------- End of June ------------- |
 

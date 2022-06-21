@@ -39,5 +39,12 @@
 | Jun09 |  7    |   <ul><li>Made summary tables of all the machine learning pipelines we tried over the course of the project (4 hours) </li><li>Made an outline for the final paper and distributed tasks (3 hours)</li></ul>                                   |
 | Jun10 | 5     |   <ul><li> Met with Levannia and the rest of the group to go over the file structure for our code and the skeleton of our final report (1 hour) </li><li> Fought with my computer trying to get the Mendeley reference manager to work with microsoft 365 Word (2 hours) </li><li> Worked on the intro for our final report (2 hours) </li></ul>                                      |
 | Jun13 | 8.5     |  <ul><li>Finished editing the intro and wrote the background section for the final report (8.5 hours) </li></ul>                                      |
+| Jun14 | 9 | <ul><li> Prepared for and gave our weekly MDS check-in presentation (1 hours) </li><li>Proofread the intro and background and sent them off to Levannia for review (1 hour) </li><li> Worked on fully writing up and explaining all the preprocessing steps for our final report (7 hours) </li></ul>|
+|Jun15| 9 |  <ul><li> Worked on the final paper (9 hours) </li></ul>|
+|Jun16| 9 |  <ul><li> Worked on the final paper (9 hours) </li></ul>|
+|Jun17| 12 |  <ul><li> Worked on the final paper (5 hours) </li><li> Worked on the final presentation (7 hours) </li></ul>|
+|Jun18| 3 | <ul><li> polished final presentation (1 hours) </li><li> Anonymized code so it can be uploaded to github (2 hours) </li></ul>|
+|Jun20| 9 |  <ul><li> Got ready for and gave the final andvisory comittee presentation (2 hours) </li><li> Finished up the final report after revisions form Siemens (2 hours) </li><li> Got ready for final presentation (5 hours) </li></ul>|
+ |Jun21| 5 |  <ul><li> Attended and gave our final presentation (5 hours) </li></ul>|
 | ----- | ----- | -------------- End of June ------------- |
 
